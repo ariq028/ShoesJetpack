@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Submission Jetpack</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_cart">Keranjang</string>
+    <string name="menu_profile">Profile</string>
+    <string name="price">Rp. %d</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </string>
+    <string name="minus_symbol">—</string>
+    <string name="plus_symbol">＋</string>
+    <string name="add_to_cart">Tambah ke Keranjang : Rp. %d</string>
+    <string name="total_order">Total pesanan : Rp. %d</string>
+    <string name="back">Back</string>
+    <string name="shoes_item">Shoes</string>
+    <string name="share_message">You have %1$s shoes in your cart. Total : %2$s</string>
+    <string name="profile_image_content_description">Foto Ariq</string>
+    <string name="email">ariq028@gmail.com</string>
+    <string name="username">Muhammad Ariq Daffa</string>
+</resources>
